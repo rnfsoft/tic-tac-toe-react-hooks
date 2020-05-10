@@ -1,6 +1,6 @@
 ## Tic Tac Toe with React Hooks
 
-[Demo](https://rnfsoft.github.io/tic-tac-toe-react-hooks)
+[Demo](https://rnfsoft.github.io/tic-tac-toe-react-hooks/)
 
 ### Reference
 
